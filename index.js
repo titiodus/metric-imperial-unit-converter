@@ -21,7 +21,7 @@ const theme = window.localStorage.getItem("theme")
 // dark theme code
 
 toggle.addEventListener('click', () => {
-    console.log('Dark mode activated')
+   
     document.body.classList.toggle("dark");
 
     if (theme === "dark") {
