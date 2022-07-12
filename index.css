@@ -72,8 +72,6 @@ button {
     font-size: 16px;
 }
 
-
-
 .length,
 .Volume,
 .Mass {
@@ -82,7 +80,7 @@ button {
   border-radius: 4.6px;
   background: var(--div-conv); 
   
-  margin: 20 auto 0 auto;
+  margin: 10 auto 0 auto;
   padding-top: 15px;
 }
 
