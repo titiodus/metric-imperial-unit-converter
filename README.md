@@ -1,4 +1,12 @@
-# cz9aPNSr
+# Metric/Imperial Unit Converter
+
+This is a solo project and built from scratch.
+
+I wrote the HTML, CSS and JavaScript from scratch.
+
+I used the figma design provided by Scrimba.
+
+I also strectched myself by adding a button that allows users to switch between a dark theme and a light theme.
 
 ## About Scrimba
 
