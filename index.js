@@ -34,7 +34,7 @@ toggle.addEventListener('click', () => {
 // creating the event for the button
 
 document.getElementById("convert-button").addEventListener('click', function(){
-    // console.log('display converted values')
+    
     convertToLengthToFeet()
     convertToLitreToGallon()
     convertToKilogramToPound()
